@@ -1,0 +1,28 @@
+_repo: Stonehenge-a-Temple-Restor-d-to-the-British-Druids_61567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stukeley, William
+    birthdate: 1687
+    deathdate: 1765
+    gutenberg_agent_id: '51491'
+    url: http://www.gutenberg.org/2009/agents/51491
+    wikipedia: https://en.wikipedia.org/wiki/William_Stukeley
+description: ''
+gutenberg_issued: '2020-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stonehenge (England) -- Early works to 1800'
+- !lcc 'DA'
+- !lcsh 'Megalithic monuments -- England -- Wiltshire -- Early works to 1800'
+- !lcsh 'Druids and Druidism -- Early works to 1800'
+- !lcsh 'Wiltshire (England) -- Antiquities -- Early works to 1800'
+- GITenberg
+title: Stonehenge, a Temple Restor'd to the British Druids
+url: http://www.gutenberg.org/ebooks/61567
